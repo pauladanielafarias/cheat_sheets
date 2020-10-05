@@ -7,7 +7,7 @@
 
 ### Cheat Sheets:
 
-Tema          | Link                                                                                           | Idioma
+Rama          | Tema / Link                                                                                    | Idioma
 --------------|------------------------------------------------------------------------------------------------|-------
 Programación  |[Git - GitHub](https://cheatography.com/paulafarias/cheat-sheets/git-github-espanol/)           | Español
               
