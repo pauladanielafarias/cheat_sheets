@@ -9,9 +9,9 @@
 
 ### Cheat Sheets:
 
-Rama          | Tema / Link                                                                                    | Idioma
---------------|------------------------------------------------------------------------------------------------|-------
-Programación  |[Git - GitHub](https://cheatography.com/paulafarias/cheat-sheets/git-github-espanol/)           | Español
+Rama          | Tema | Archivo en PDF | Idioma
+--------------|------|----------------|--------
+Programación  |[Git - GitHub](https://cheatography.com/paulafarias/cheat-sheets/git-github-espanol/) | [PDF](https://cheatography.com/paulafarias/cheat-sheets/git-github-espanol/pdf/) | Español
               
             
        
