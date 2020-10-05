@@ -1,9 +1,9 @@
 # :memo: Cheat Sheets
-### Conjunto de Cheat Sheets que ayudan en distintos tópicos, creadas por Paula Farias. 
+### Conjunto de Cheat Sheets que ayudan en distintos tópicos. 
 - Se pueden ver online o descargarlas en PDF.
 - Algunas están en español y otras en inglés.
 
-#### A set of Cheat Sheets that help on different topics, created by Paula Farias. 
+#### A set of Cheat Sheets that help on different topics. 
 - They can be viewed online or download them in PDF.
 - Some of them are in Spanish and others in English.
 
