@@ -19,5 +19,5 @@ Programación  |[Git - GitHub](https://cheatography.com/paulafarias/cheat-sheets
 
 #### :woman_technologist: **Developer:** [Paula Farias](https://linkedin.com/in/paulafarias)
 
-##### Desarrollado con [Cheatography](https://cheatography.com/)
+##### Desarrollado con [Cheatography](https://cheatography.com/paulafarias)
 
