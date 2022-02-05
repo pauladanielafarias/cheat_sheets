@@ -14,7 +14,7 @@
 Area          | Topic | File | Language
 --------------|------|----------------|--------
 Programming  |[Git - GitHub](https://cheatography.com/paulafarias/cheat-sheets/git-github-espanol/) | [PDF](https://cheatography.com/paulafarias/cheat-sheets/git-github-espanol/pdf/) | Español
-Programming  |[Python](https://colab.research.google.com/github/pauladanielafarias/cheatsheet_python/blob/master/Cheatsheet_Python.ipynb) | [ipynb]https://colab.research.google.com/github/pauladanielafarias/cheatsheet_python/blob/master/Cheatsheet_Python.ipynb) | English            
+Programming  |[Python](https://colab.research.google.com/github/pauladanielafarias/cheatsheet_python/blob/master/Cheatsheet_Python.ipynb) | [ipynb](https://colab.research.google.com/github/pauladanielafarias/cheatsheet_python/blob/master/Cheatsheet_Python.ipynb) | English            
        
 
 
