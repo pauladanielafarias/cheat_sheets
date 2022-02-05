@@ -11,16 +11,15 @@
 
 ### Cheat Sheets:
 
-Area          | Topic | File | Language
+Area          | Topic | File Extension | Language
 --------------|------|----------------|--------
 Programming  |[Git - GitHub](https://cheatography.com/paulafarias/cheat-sheets/git-github-espanol/) | [PDF](https://cheatography.com/paulafarias/cheat-sheets/git-github-espanol/pdf/) | Español
 Programming  |[Python](https://colab.research.google.com/github/pauladanielafarias/cheatsheet_python/blob/master/Cheatsheet_Python.ipynb) | [ipynb](https://colab.research.google.com/github/pauladanielafarias/cheatsheet_python/blob/master/Cheatsheet_Python.ipynb) | English            
-       
 
 
-#### :woman_technologist: **Developer:** [Paula Farias](https://linkedin.com/in/paulafarias) 
-
-##### Tools used:
+#### Tools used:
 - [Cheatography](https://cheatography.com/paulafarias)
 - [Google Colab](https://colab.research.google.com/github/pauladanielafarias)
 
+
+#### :woman_technologist: **Developer:** [Paula Farias](https://linkedin.com/in/paulafarias) 
